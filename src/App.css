@@ -41,5 +41,7 @@
 }
 
 .test{
-  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
 }
