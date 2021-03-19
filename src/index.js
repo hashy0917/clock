@@ -9,6 +9,12 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
     <Test />
+    <Test />
+    <Test />
+    <Test />
+    <Test />
+    <Test />
+    <Test />
   </React.StrictMode>,
   document.getElementById('root')
 );
